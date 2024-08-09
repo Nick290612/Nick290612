@@ -39,5 +39,21 @@
   <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Linguagens que voce sabe um pouco? </h3></summary>
   <h4 align="center">Algumas linguagens estara abaixo!</h4>
     <img align="center" alt="Nick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Nick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo">
+  </p>
+</details>
+
+------
+
+<details>
+  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Sofware que voce usa? </h3></summary>
+  <h4 align="center">Eu uso todos esses aplicativos para programar!</h4>
+    <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
   </p>
 </details>
