@@ -57,3 +57,15 @@
 </div>
   </p>
 </details>
+
+------
+
+<details>
+  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Estatisticas </h3></summary>
+  <h4 align="center">Essa é minhas estatisticas!</h4>
+  <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nick290612&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Nick290612&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
