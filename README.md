@@ -58,3 +58,16 @@
   </p>
 </details>
 
+-------
+
+<details>
+  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Estatisticas </h3></summary>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nick290612&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nick290612&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+</div>
+  </p>
+</details>
