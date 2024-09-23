@@ -82,9 +82,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Nick290612&show_icons=true&theme=dracula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Estatísticas do GitHub" width="50%"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick290612&layout=pie&show_icons=true&theme=dracula" alt="Linguagens mais usadas" width="27.3%"/>
   </p>
-  <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKillovSky%2FKillovSky&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitas%20(Hoje%20%2F%20Total)"/>
-  </p>
 </details>
 
 ---
