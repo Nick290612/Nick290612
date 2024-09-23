@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/BIt2nd2_d.webp?maxwidth=760&fidelity=grand" width="760" height="428" alt="Nick"/>
+    <img src="https://i.imgur.com/K5P22VM.gif" width="250" height="250" alt="Nick"/>
     <h3 align="center">Olá, me chamo Nick, ou Nicolas</h3>
 </p>
 
