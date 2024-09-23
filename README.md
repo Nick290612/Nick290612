@@ -60,14 +60,8 @@
 
 -------
 
-<details>
-  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Estatisticas </h3></summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nick290612&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nick290612&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <h4>🌟 Sinta-se à vontade para explorar meus projetos, contribuir ou reutilizar meus códigos! 🌟</h4>
+  <!-- Because I will never give you up, never let you down, or abandon you. I will never make you cry, say goodbye, or tell a lie and hurt you... -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nick290612&theme=dracula" alt="Resumo do Perfil" align="center">
 </div>
-
-###
-</div>
-  </p>
-</details>
