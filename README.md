@@ -60,6 +60,22 @@
 
 -------
 
+<details>
+  <summary><h3><img src="https://media.tenor.com/akBy6qWGjs4AAAAi/peach-cat-mochi-peach-cat.gif" width="50"/> Informações sobre mim </h3></summary>
+<div align="center">
+  <h4>👨‍💻 Desenvolvedor de software apaixonado por tecnologia, astronomia e ciências.</h4>
+  
+  <h5>💡 Minha paixão por tecnologia começou cedo, e hoje estou profundamente envolvido no desenvolvimento de projetos inovadores, especialmente focados em automação e bots para WhatsApp.</h5>
+  
+  <h5>🤖 Sou criador da <strong>Lily bot</strong>, um bot para WhatsApp que simplifica a comunicação diária. Você pode conhecer mais sobre o projeto visitando o <a href="https://nick290612.github.io/Lily-site/" target="_blank">site oficial</a>.</h5>
+
+  <h5>🔍 Se você está procurando um desenvolvedor interessado em soluções criativas de automação e bots, sou a pessoa certa! Continuo aprendendo e expandindo meus conhecimentos em Node.js, JavaScript e outras tecnologias de ponta.</h5>
+</div>
+  </p>
+</details>
+
+---
+
 <div align="center">
   <h4>🌟 Sinta-se à vontade para explorar meus projetos, contribuir ou reutilizar meus códigos! 🌟</h4>
   <!-- Because I will never give you up, never let you down, or abandon you. I will never make you cry, say goodbye, or tell a lie and hurt you... -->
